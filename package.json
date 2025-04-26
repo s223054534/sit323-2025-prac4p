@@ -1,0 +1,24 @@
+{
+  "name": "week4",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://s223054534@github.com/s223054534/sit323-2025-prac4p.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s223054534/sit323-2025-prac4p/issues"
+  },
+  "homepage": "https://github.com/s223054534/sit323-2025-prac4p#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
